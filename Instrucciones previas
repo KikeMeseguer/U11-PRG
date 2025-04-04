@@ -1,0 +1,4 @@
+Para poder usar la libreria de JavaFX se debe:
+- Descargar su JDK https://gluonhq.com/products/javafx/?form=MG0AV3
+- Añadir la libreria al proyecto (la carpeta lib del archivo descargado)
+- Añadir la siguiente VM option: --module-path C:\Users\Meseg\.openjfx\javafx-sdk-23.0.2\lib --add-modules=javafx.controls,javafx.fxml (cambiar la dirección en función de la ubicación del archivo descargado)
